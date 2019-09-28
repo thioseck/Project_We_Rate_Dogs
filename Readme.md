@@ -13,8 +13,8 @@ Our tasks in this project are as follows:
 + Storing the clean dataset in a csv file
 +   Analyzing, and visualizing our wrangled data
 +   Reporting on:
-   1) our data wrangling efforts and
-   2) ourr data analyses and visualizations
+    1) our data wrangling efforts and
+    2) ourr data analyses and visualizations
 
 
 # Tools
