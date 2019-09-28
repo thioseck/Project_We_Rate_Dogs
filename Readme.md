@@ -15,14 +15,12 @@ Our tasks in this project are as follows:
 + Storing the clean dataset in a csv file
 +   Analyzing, and visualizing our wrangled data
 +   Reporting on:
-    1) our data wrangling efforts and
-    2) ourr data analyses and visualizations
+    1) our data wrangling efforts 
+    2) our data analyses and visualizations
 
 
 # Tools
-In this project, we use Python 2 or 3 and is designed to be completed through the Jupyter Notebooks IDE.
-We use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well
-as Jupyter Notebooks. The following libraries are expected to be used in this project:
+We will use Python 2 or 3 to complete the project through the Jupyter Notebooks IDE. Anaconda distribution will be use to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries will be expected to be used in this project:
     
 + pandas
 + NumPy
