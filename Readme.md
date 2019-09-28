@@ -1,8 +1,5 @@
 # Project WeRateDogs
 
-< img src = "Project_We_Rate_Dogs/images/weratedog.png>
-
-
 
 # Goal
 In this project, we will be wrangling and analyzing data from a twitter account WeRateDogs to create interesting and trustworthy analyses  and visualizations. The WeRateDogs Twitter archive data contains basic tweet data for all 5000+ of their tweets.
