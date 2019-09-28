@@ -7,25 +7,26 @@ trustworthy analyses and visualizations. The WeRateDogs Twitter archive data con
 
 # Instructions
 Our tasks in this project are as follows:
- Data wrangling, which consists of:
-        Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
-        Assessing data
-        Cleaning data
-   Storing the clean dataset in a csv file
-   Analyzing, and visualizing our wrangled data
++ Data wrangling, which consists of:
+       ++ Gathering data
+       ++ Assessing data
+       ++ Cleaning data
++ Storing the clean dataset in a csv file
++   Analyzing, and visualizing our wrangled data
    Reporting on
- 1) your data wrangling efforts and
- 2) your data analyses and visualizations
+ 1) our data wrangling efforts and
+ 2) ourr data analyses and visualizations
 
 
-Tools
-This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that
-we use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well
+# Tools
+In this project, we Python 2 or 3 and is designed to be completed through the Jupyter Notebooks IDE.
+We will use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well
 as Jupyter Notebooks. The following libraries are expected to be used in this project:
-
     
-    pandas
-    NumPy
-    requests
-    tweepy
-    json
++ pandas
++ NumPy
++ matlabplot
++ seaborn
++ requests
++ tweepy
++ json
